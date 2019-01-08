@@ -2,7 +2,13 @@
 
 Format your .net object to be displayed on web. There is also a little web research tool, but not very efficient.
 
-[![Version Status](https://img.shields.io/nuget/v/Tools4Libraries.svg)](https://www.nuget.org/packages/Tools4Libraries/)
+Tools.Utilities : [![Version Status](https://img.shields.io/nuget/v/Tools.Utilities.svg)](https://www.nuget.org/packages/Tools.Utilities/)
+<br/>
+Tools.Utilities.UI : [![Version Status](https://img.shields.io/nuget/v/Tools.Utilities.UI.svg)](https://www.nuget.org/packages/Tools.Utilities.UI/)
+<br/>
+Tools.Slider : [![Version Status](https://img.shields.io/nuget/v/Tools.Slider.svg)]<br/>
+<br/>
+
 [![License](https://img.shields.io/github/license/brandondahler/Data.HashFunction.svg)](https://raw.githubusercontent.com/ThibaultMontaufray/Tools4Libraries/master/License)
 [![Build Status](https://travis-ci.org/ThibaultMontaufray/Tools4Libraries.svg?branch=master)](https://travis-ci.org/ThibaultMontaufray/Tools4Libraries) 
 [![Build status](https://ci.appveyor.com/api/projects/status/sidmejyg6biq7gkr?svg=true)](https://ci.appveyor.com/project/ThibaultMontaufray/manager-database)
