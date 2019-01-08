@@ -1,5 +1,5 @@
 language: csharp
-solution: Tools4Libraries.sln
+solution: Tools.sln
 mono: latest
 notifications:
   email: false
