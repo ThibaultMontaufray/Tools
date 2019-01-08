@@ -18,8 +18,7 @@ Format your .net object to be displayed on web. There is also a little web resea
 # Usage examples
 
 <h3>For pictures library : </h3>
-```csharp
-Image bigImg = Tools.Utilities.UI.Resources.ResourceIconSet32Default.door_out;
+```Image bigImg = Tools.Utilities.UI.Resources.ResourceIconSet32Default.door_out;
 Image smallImg = Tools.Utilities.UI.Resources.ResourceIconSet16Default.door_out;
 ```
 
