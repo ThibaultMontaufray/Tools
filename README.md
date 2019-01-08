@@ -19,8 +19,8 @@ Format your .net object to be displayed on web. There is also a little web resea
 
 <h3>For pictures library : </h3>
 ```csharp
-Image bigImg = Tools4Libraries.Resources.ResourceIconSet32Default.door_out;
-Image smallImg = Tools4Libraries.Resources.ResourceIconSet16Default.door_out;
+Image bigImg = Tools.Utilities.UI.Resources.ResourceIconSet32Default.door_out;
+Image smallImg = Tools.Utilities.UI.Resources.ResourceIconSet16Default.door_out;
 ```
 
 <h3>For config parameters :</h3>
@@ -37,6 +37,6 @@ here is an extrat of params :
 ```
 and the code to use it :
 ```csharp
-string proxyLogin = Tools4Libraries.Params.WebProxyLogin;
-string proxyPassword = Tools4Libraries.Params.WebProxyPassword;
+string proxyLogin = Tools.Utilities.Params.WebProxyLogin;
+string proxyPassword = Tools.Utilities.Params.WebProxyPassword;
 ```
