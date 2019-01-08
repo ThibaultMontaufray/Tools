@@ -6,7 +6,7 @@ Tools.Utilities : [![Version Status](https://img.shields.io/nuget/v/Tools.Utilit
 <br/>
 Tools.Utilities.UI : [![Version Status](https://img.shields.io/nuget/v/Tools.Utilities.UI.svg)](https://www.nuget.org/packages/Tools.Utilities.UI/)
 <br/>
-Tools.Slider : [![Version Status](https://img.shields.io/nuget/v/Tools.Slider.svg)]<br/>
+Tools.Slider : [![Version Status](https://img.shields.io/nuget/v/Tools.Slider.svg)](https://www.nuget.org/packages/Tools.Slider/)
 <br/>
 
 [![License](https://img.shields.io/github/license/brandondahler/Data.HashFunction.svg)](https://raw.githubusercontent.com/ThibaultMontaufray/Tools4Libraries/master/License)
