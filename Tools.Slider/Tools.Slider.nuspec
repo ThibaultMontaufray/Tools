@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Tools.Utilities.UI</id>
+    <id>Tools.Slider</id>
     <version>1.0.23</version>
-    <title>Servodroid.Tools.Utilities.UI</title>
+    <title>Servodroid.Slider</title>
     <authors>Thibault MONTAUFRAY</authors>
     <owners>Servodroid</owners>
     <license type="expression">MIT</license>
     <projectUrl>https://github.com/ThibaultMontaufray/Tools/</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/ThibaultMontaufray/Tools/master/Tools.Data/servodroidIconColor.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>Contains icon, read/write a config file, logger. Some graphical tools but dev still in progress on it</description>
-    <copyright>Copyright 2015 - 2018</copyright>
-    <tags>Servodroid tools icon config graphic</tags>
+    <description>Custom slider for your applications</description>
+    <copyright>Copyright 2015 - 2019</copyright>
+    <tags>Servodroid slider winform</tags>
   </metadata>
   <files>
     <file src="lib\**\*.dll" target="lib" />
