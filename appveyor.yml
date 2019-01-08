@@ -11,9 +11,9 @@ environment:
   COVERALLS_REPO_TOKEN:
     secure: vHjMs/fLy2XdE5n5A5XUGAK9p30TRPGy2XogMC+O+bnJmS8DEOSiKy5nKE+uBCwD
 before_build:
-  - nuget restore Tools4Libraries.sln
+  - nuget restore Tools.sln
 build:
-  project: .\Tools4Libraries.sln
+  project: .\Tools.sln
   verbosity: minimal
 test_script:
 - ps: >-
